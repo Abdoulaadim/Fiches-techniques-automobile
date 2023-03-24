@@ -1,3 +1,28 @@
 {
+    "Citadine": {
+        "RENAULT": [
+            { "id": 1, "title": "CLIO" },
+            { "id": 2, "title": "R4" },
+            { "id": 3, "title": "R5" },
+            { "id": 4, "title": "SUPER 5" },
+            { "id": 5, "title": "TWINGO" },
+            { "id": 6, "title": "TWIZY" },
+            { "id": 7, "title": "ZOE" }
+        ],
+        "PEUGEOT": [
+            { "id": 1, "title": "104" },
+            { "id": 2, "title": "106" },
+            { "id": 3, "title": "107" },
+            { "id": 4, "title": "108" },
+            { "id": 5, "title": "205" },
+            { "id": 6, "title": "206" },
+            { "id": 7, "title": "206+" },
+            { "id": 8, "title": "207" },
+            { "id": 9, "title": "207+" },
+            { "id": 10, "title": "208" },
+            { "id": 11, "title": "ION" }
+        ]
 
+
+    }
 }
