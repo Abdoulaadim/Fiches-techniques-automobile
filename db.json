@@ -21,6 +21,17 @@
             { "id": 9, "title": "207+" },
             { "id": 10, "title": "208" },
             { "id": 11, "title": "ION" }
+        ],
+        "BMW": [
+            { "id": 1, "title": "I3" },
+            { "id": 2, "title": "I3S" }
+        ],
+        "VOLKSWAGEN": [
+            { "id": 1, "title": "1200" },
+            { "id": 2, "title": "FOX" },
+            { "id": 3, "title": "LUPO" },
+            { "id": 4, "title": "POLO" },
+            { "id": 5, "title": "UP!" }
         ]
 
 
