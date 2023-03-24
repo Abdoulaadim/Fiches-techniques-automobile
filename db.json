@@ -22,6 +22,20 @@
             { "id": 10, "title": "208" },
             { "id": 11, "title": "ION" }
         ],
+        "CITROEN": [
+            { "id": 1, "title": "2CV" },
+            { "id": 2, "title": "AX" },
+            { "id": 3, "title": "AXEL" },
+            { "id": 4, "title": "C-ZERO" },
+            { "id": 5, "title": "C1" },
+            { "id": 6, "title": "C2" },
+            { "id": 7, "title": "C3" },
+            { "id": 8, "title": "DS3" },
+            { "id": 9, "title": "DYANE" },
+            { "id": 10, "title": "LNA" },
+            { "id": 11, "title": "SAXO" },
+            { "id": 12, "title": "VISA" }
+        ],
         "BMW": [
             { "id": 1, "title": "I3" },
             { "id": 2, "title": "I3S" }
@@ -32,6 +46,90 @@
             { "id": 3, "title": "LUPO" },
             { "id": 4, "title": "POLO" },
             { "id": 5, "title": "UP!" }
+        ]
+    },
+    "Berline": {
+        "RENAULT": [
+            { "id": 1, "title": "FLUENCE" },
+            { "id": 2, "title": "LAGUNA" },
+            { "id": 3, "title": "LATITUDE" },
+            { "id": 4, "title": "MEGANE" },
+            { "id": 5, "title": "R11" },
+            { "id": 6, "title": "R18" },
+            { "id": 7, "title": "R19" },
+            { "id": 8, "title": "R20" },
+            { "id": 9, "title": "R21" },
+            { "id": 10, "title": "R25" },
+            { "id": 11, "title": "R30" },
+            { "id": 12, "title": "R9" },
+            { "id": 13, "title": "RAMBLER" },
+            { "id": 14, "title": "SAFRANE" },
+            { "id": 15, "title": "TALISMAN" },
+            { "id": 16, "title": "VEL SATIS" }
+
+        ],
+        "PEUGEOT": [
+            { "id": 1, "title": "201" },
+            { "id": 2, "title": "203" },
+            { "id": 3, "title": "301" },
+            { "id": 4, "title": "305" },
+            { "id": 5, "title": "306" },
+            { "id": 6, "title": "307" },
+            { "id": 7, "title": "308" },
+            { "id": 8, "title": "309" },
+            { "id": 9, "title": "405" },
+            { "id": 10, "title": "406" },
+            { "id": 11, "title": "407" },
+            { "id": 12, "title": "408" },
+            { "id": 13, "title": "504" },
+            { "id": 14, "title": "505" },
+            { "id": 15, "title": "508" },
+            { "id": 16, "title": "604" },
+            { "id": 17, "title": "605" },
+            { "id": 18, "title": "607" }
+        ],
+        "CITROEN": [
+            { "id": 1, "title": "AC4" },
+            { "id": 2, "title": "B14" },
+            { "id": 3, "title": "BX" },
+            { "id": 4, "title": "C-ELYSEE" },
+            { "id": 5, "title": "C4" },
+            { "id": 6, "title": "C5" },
+            { "id": 7, "title": "C5 X" },
+            { "id": 8, "title": "C6" },
+            { "id": 9, "title": "CX" },
+            { "id": 10, "title": "DS" },
+            { "id": 11, "title": "DS4" },
+            { "id": 12, "title": "GSA" },
+            { "id": 13, "title": "TRACTION" },
+            { "id": 14, "title": "XANATIA" },
+            { "id": 15, "title": "XM" },
+            { "id": 16, "title": "XSARA" },
+            { "id": 17, "title": "ZX" }
+        ],
+        "BMW": [
+            { "id": 1, "title": "I4" },
+            { "id": 2, "title": "I7" },
+            { "id": 3, "title": "SERIE1" },
+            { "id": 4, "title": "SERIE2" },
+            { "id": 5, "title": "SERIE3" },
+            { "id": 6, "title": "SERIE3 GT" },
+            { "id": 7, "title": "SERIE5" },
+            { "id": 8, "title": "SERIE5 GT" },
+            { "id": 9, "title": "SERIE6" },
+            { "id": 10, "title": "SERIE7" },
+            { "id": 11, "title": "SERIE8 GRAN COUPE" }
+        ],
+        "VOLKSWAGEN": [
+            { "id": 1, "title": "BORA" },
+            { "id": 2, "title": "COCCINELLE" },
+            { "id": 3, "title": "GOLF" },
+            { "id": 4, "title": "GOLF PLUS" },
+            { "id": 5, "title": "JETTA" },
+            { "id": 2, "title": "NEW BEETLE" },
+            { "id": 3, "title": "PASSAT" },
+            { "id": 4, "title": "PHAETON" },
+            { "id": 4, "title": "VENTO" }
         ]
 
 
