@@ -1,0 +1,1 @@
+export const GET_FICHES = "GET_FICHES";
