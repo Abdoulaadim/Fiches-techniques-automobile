@@ -4,7 +4,7 @@ import { GET_FICHES } from './types';
 
 export const getFiches = () => async dispatch => {
  
-    const res = await axios.get('https://jsonplaceholder.typicode.com/users');
+    const res = await axios.get('http://localhost:3000/');
   
     dispatch({
             type: GET_FICHES,
