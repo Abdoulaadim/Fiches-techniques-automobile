@@ -3,6 +3,7 @@ import { connect } from 'react-redux';
 import {getFiches} from '../actions/ficheActions';
 
 const fiche = () => {
+
   return (
     <Fragment>
         
@@ -12,7 +13,7 @@ const fiche = () => {
 
 const mapStateToProps = (state) => {
     return {
-      fiche: state.fiche.fiche
+      fiche: state.myFiche.fiche
     }
 }
 
