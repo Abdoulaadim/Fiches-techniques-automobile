@@ -4,7 +4,7 @@ import { GET_FICHES } from './types';
 
 export const getFiches = () => async dispatch => {
  
-    const res = await axios.get('http://localhost:3000/');
+    const res = await axios.get('/citadine');
   
     dispatch({
             type: GET_FICHES,
