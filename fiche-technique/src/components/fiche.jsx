@@ -3,12 +3,12 @@ import { connect } from 'react-redux';
 import {getFiches} from '../actions/ficheActions';
 
 const fiche = () => {
-
+ 
   return (
     <Fragment>
         
     </Fragment>
-  )
+  );
 }
 
 const mapStateToProps = (state) => {
