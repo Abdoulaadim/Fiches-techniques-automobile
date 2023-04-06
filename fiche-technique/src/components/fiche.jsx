@@ -8,7 +8,7 @@ const fiche = () => {
     <Fragment>
         
     </Fragment>
-  );
+  )
 }
 
 const mapStateToProps = (state) => {
