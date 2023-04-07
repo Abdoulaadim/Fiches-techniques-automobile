@@ -6,8 +6,7 @@ const initialState = {
 export default function defaults(state = initialState, action) {
 
     switch(action.type) {
-        case 'GET_CONTACTS': 
-        console.log(state);
+        case 'GET_FICHES': 
         return {
           ...state,
           fiches: action.payload

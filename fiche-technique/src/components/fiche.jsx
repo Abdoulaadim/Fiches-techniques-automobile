@@ -1,13 +1,13 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import { connect } from 'react-redux';
 import {getFiches} from '../actions/ficheActions';
 
-const fiche = () => {
- 
+const fiche = (props) => {
+    console.log(props);
   return (
-    <Fragment>
-        
-    </Fragment>
+    <div>
+        <p>Hello</p>
+    </div>
   )
 }
 
@@ -17,4 +17,4 @@ const mapStateToProps = (state) => {
     }
 }
 
-export default connect(mapStateToProps, { getFiches })(fiche);
+export default connect(mapStateToProps, getFiches)(fiche);

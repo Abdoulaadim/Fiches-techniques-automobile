@@ -10,5 +10,5 @@ export const getFiches = () => async dispatch => {
             type: GET_FICHES,
             payload: res.data
           });
-  };
+};
   
