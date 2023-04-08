@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import {getFiches} from '../actions/ficheActions';
 
 const fiche = (props) => {
-    console.log(props);
   return (
     <div>
         <p>Hello</p>
