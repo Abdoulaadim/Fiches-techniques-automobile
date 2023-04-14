@@ -5,7 +5,7 @@ import {getFiches} from '../actions/ficheActions';
 const fiche = (props) => {
   return (
     <div>
-        <p>test 2</p>
+        <p>xxxx</p>
     </div>
   )
 }
