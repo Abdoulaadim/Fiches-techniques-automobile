@@ -6,7 +6,7 @@ const fiche = (props) => {
   return (
     <div>
         <p>test1
-          2
+          23
           
         </p>
     </div>
